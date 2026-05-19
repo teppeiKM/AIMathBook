@@ -26,4 +26,4 @@ Pythonコードは、コードを実行しながら中身を理解できるよ�
 エンジニアのテックカレッジ「Aidemy」がオススメです。Pythonの基礎からディープラーニングまで、今なら一部無料で学習できます。
 https://aidemy.net/
 
-# test edit
+# test edit from new_branch
